@@ -1,0 +1,9 @@
+{
+	"name": "gds-de-azure-data-factory",
+	"location": "westus3",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "41aebb29-0bee-46c9-8c22-a6950092fad1",
+		"tenantId": "02027b06-6396-4c10-8873-25f6e96d40df"
+	}
+}
